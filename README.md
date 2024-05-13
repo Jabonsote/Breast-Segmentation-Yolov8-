@@ -33,7 +33,7 @@ Los datos utilizados en este proyecto se encuentran disponibles en el siguiente 
 
 # Resultados
 
-![Metricas del entrenamiento](images/segmentation_demo.png)
+![Metricas del entrenamiento](results/results.png)
 
 
 
