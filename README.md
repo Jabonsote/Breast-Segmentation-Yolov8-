@@ -13,7 +13,7 @@ En este proyecto, se ha entrenado un modelo YOLOv8 utilizando un conjunto de dat
 - **results/**: En esta carpeta se almacenan los resultados de la segmentación obtenidos por el modelo.
 - **demo/**: Aquí se encuentra una demo desplegada del proyecto para probar la segmentación en imágenes de muestra : [DEMO](https://universe.roboflow.com/uabc-auri0/breast-segmentation-dxcby/model/3)
 
-![Demostración de segmentación](images/segmentation_demo.png)
+![Demostración de segmentación](results/val_batch0_pred.jpg)
 
 
 ## Uso
@@ -29,7 +29,7 @@ Para utilizar este proyecto, sigue estos pasos:
 
 Los datos utilizados en este proyecto se encuentran disponibles en el siguiente enlace: [Breast Segmentation Dataset](https://universe.roboflow.com/uabc-auri0/breast-segmentation-dxcby/dataset/3)
 
-![DATOS](images/segmentation_demo.png)
+
 
 # Resultados
 
