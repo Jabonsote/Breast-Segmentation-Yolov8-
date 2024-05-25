@@ -1,4 +1,4 @@
-# Breast-Segmentation-Yolov8
+# Breast-Segmentation-Yolov9
 
 Este repositorio contiene una implementación de segmentación de mamas utilizando YOLOv8, una versión mejorada del popular modelo YOLO (You Only Look Once) para detección de objetos en imágenes. La segmentación de mamas es una tarea crucial en aplicaciones médicas como el diagnóstico de cáncer de mama a partir de imágenes de mamografías.
 
